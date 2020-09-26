@@ -1,0 +1,13 @@
+{
+    "disableAutoUpdate": false,
+    "name": "Pink Crosshair",
+    "keywords" : ["client"],
+    "author": "PsykoDev",
+    "options": {
+        "guiName": "Pink Crosshair",
+        "cliName": "Pink Crosshair"
+    },
+    "servers": ["https://raw.githubusercontent.com/PsykoDev/Pink-crossair/master"],
+    "supportUrl": "https://github.com/PsykoDev/Pink-crossair/issues",
+    "description": "Pink Crosshair"
+}
